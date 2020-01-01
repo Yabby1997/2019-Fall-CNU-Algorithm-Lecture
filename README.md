@@ -1,4 +1,4 @@
-Algorithm lecture in Computer Science Engineering in CNU Fall, 2019
+# Algorithm lecture in Computer Science Engineering in CNU Fall, 2019
 
 + AL01 : creating graph
 + AL02 : cycle checking in graph
