@@ -1,5 +1,10 @@
 # Algorithm lecture in Computer Science Engineering in CNU Fall, 2019
 
+### Description
++ Language : Java
++ Environment : macOS(10.14.4) + Eclipse(2019-06), macOS(10.15.2) + IntelliJ(Ultimate 2019.2)
+
+### Contents
 + AL01 : creating graph
 + AL02 : cycle checking in graph
 + AL03 : graph coloring
